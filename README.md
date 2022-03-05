@@ -5,8 +5,7 @@ Post a flashcard to the center of the screen. Click on the flashcard to reveal t
 
 ### App Walk-though
 
-![Prework](https://submissions.us-east-1.linodeobjects.com/mobile_app_design/6G-WzoiW.gif)
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OzTDiFu" data-context="false" ><a href="//imgur.com/a/OzTDiFu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Required
 - [x] Create New Project in Xcode
