@@ -8,7 +8,10 @@ Post a flashcard to the center of the screen. Click on the flashcard to reveal t
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/a/OzTDiFu" width=200><br>
+<!-- <img src="https://imgur.com/a/OzTDiFu" width=200><br>
+ -->
+ 
+![Prework](https://imgur.com/a/OzTDiFu)
 
 ## Required
 - [x] Create New Project in Xcode
