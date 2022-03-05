@@ -6,7 +6,6 @@
 Post a flashcard to the center of the screen. Click on the flashcard to reveal the back.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 ![Prework](https://submissions.us-east-1.linodeobjects.com/mobile_app_design/6G-WzoiW.gif)
 
