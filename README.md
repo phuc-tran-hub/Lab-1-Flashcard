@@ -1,5 +1,3 @@
-## Lab 1 Flashcard
-
 ## Lab 1
 
 ### App Description
