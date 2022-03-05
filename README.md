@@ -11,7 +11,7 @@ Post a flashcard to the center of the screen. Click on the flashcard to reveal t
 <!-- <img src="https://imgur.com/a/OzTDiFu" width=200><br>
  -->
  
-![Prework](https://imgur.com/a/OzTDiFu)
+![Prework](https://submissions.us-east-1.linodeobjects.com/mobile_app_design/6G-WzoiW.gif)
 
 ## Required
 - [x] Create New Project in Xcode
