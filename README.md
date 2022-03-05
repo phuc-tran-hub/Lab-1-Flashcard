@@ -5,7 +5,7 @@ Post a flashcard to the center of the screen. Click on the flashcard to reveal t
 
 ### App Walk-though
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OzTDiFu" data-context="false" ><a href="//imgur.com/a/OzTDiFu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Lab 1 Flashcard Demo Phuc Tran](https://user-images.githubusercontent.com/72048855/156866708-11dba2ac-5f41-4edb-8249-ea397179b3a2.gif)
 
 ## Required
 - [x] Create New Project in Xcode
